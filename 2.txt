@@ -1,0 +1,25 @@
+         
+	"Resume in JSON Format"
+		
+let Resume = {
+    'NAME' : 'Saravanan S',
+    'ROLE' : 'Full Stack Developer',
+    'DOB' : '05-06-1993',
+    'CONTACT' : {'EMAIL' : 'ssslifeskills@gmail.com','PHONE' : '+919791817435'},
+    'SKILLS' : ['HTML','CSS','JS','REACT'],
+    'LANGUAGES' : {'NATIVE' : 'Tamil','FLUENT' : 'English'},
+    'EDUCATION' : {'COLLEGE' : {
+                     'NAME' : 'Velammal Engineering College',
+                     'COURSE' : 'B.E - Electrical And Electronics Engineering',
+                     'YEAR' : '2015-2018'}}
+    'Address' : {
+                 '1ST LINE' : 'Dhandabani Nagar Colony',
+                 '2ND LINE' : 'Uttathur',
+                 'CITY' : 'Trcihy',
+                 'PINCODE' : 621109
+    }
+
+};
+
+console.log(RESUME);
+
